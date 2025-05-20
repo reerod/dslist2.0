@@ -14,8 +14,8 @@ O DSList é uma API que permite listar, organizar e manipular informações de j
 
 ## Tecnologias Utilizadas
 
-* **Java 17+**: Linguagem de programação principal.
-* **Spring Boot 3.x**: Framework para construção de aplicações Java.
+* **Java 17**: Linguagem de programação principal.
+* **Spring Boot 3.4.5**: Framework para construção de aplicações Java.
 * **Spring Data JPA**: Abstração para acesso a dados com ORM (Object-Relational Mapping).
 * **Hibernate**: Implementação de JPA.
 * **PostgreSQL**: Sistema de gerenciamento de banco de dados relacional (utilizado em produção/dev).
